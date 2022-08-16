@@ -1,4 +1,4 @@
-# Treasure-Islandd
+# Treasure-Island
 A choose your own adventure game
 
 print("Welcome to Treasure Island.")
